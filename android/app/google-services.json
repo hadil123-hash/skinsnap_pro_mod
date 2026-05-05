@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559966888977",
+    "project_id": "skinsnap-99d0f",
+    "storage_bucket": "skinsnap-99d0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559966888977:android:8b4854182d44596737bdb0",
+        "android_client_info": {
+          "package_name": "com.example.skinsnap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzvlwqO50KgMRMf2uTsmOnU0q8b9PRLRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
