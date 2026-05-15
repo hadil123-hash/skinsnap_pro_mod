@@ -4,7 +4,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class AiBeautyAssistantService {
-  static const String _geminiApiKey = 'AIzaSyDu6pUhvqHvz-gT1RNBYDjxe0zyH3h0xA4';
+  static const String _geminiApiKey = '';
   static const String _model = 'gemini-1.5-flash';
 
   bool get hasApiKey {
